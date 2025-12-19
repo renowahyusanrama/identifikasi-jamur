@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Identifikasi Jamur (MVP)
 
 MVP web sederhana untuk mengidentifikasi jamur menggunakan iNaturalist Computer Vision. Unggah satu foto, klik **Identifikasi**, lalu aplikasi menampilkan nama lokal (jika ada) dan nama latin.
@@ -39,3 +40,6 @@ MVP web sederhana untuk mengidentifikasi jamur menggunakan iNaturalist Computer 
 
 ## Catatan
 - Hasil identifikasi bersifat perkiraan, bukan panduan konsumsi.
+=======
+# identifikasi-jamur
+>>>>>>> dc5425e6138987b7c210c71ac0163d104135f38c
